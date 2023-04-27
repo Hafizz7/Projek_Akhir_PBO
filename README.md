@@ -1,4 +1,4 @@
-# Projek Akhir Kecerdasan Buatan
+# Projek Akhir Pemrograman Berorientasi Objek
 ***
 ## Kelompok 2 A2'21
 - Kevin Yaneld Cendhana  (2109106031)
